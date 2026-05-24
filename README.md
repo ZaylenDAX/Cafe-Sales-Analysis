@@ -10,6 +10,8 @@ This document provides a comprehensive explanation of the design, structure, dat
 
 The objective of this project was to explore, clean, transform, and visualize a large sales dataset to produce meaningful insights. A dynamic dashboard was built to allow end users to filter and interact with the data easily.
 
+<img src="Visuals/Screenshot 2025-11-19 204430.png" alt="Image">
+
 ### **Key Deliverables**
 
 - Cleaned sales transaction dataset
